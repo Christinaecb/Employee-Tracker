@@ -49,4 +49,4 @@ Please reach out to chrisinta.e.c.barberi@gmail.com
 
 ## Github
 
-Please visit me on [Github](https://github.com/Christinaecb)! Thank you 
+Please visit me on [Github](https://github.com/Christinaecb)!
