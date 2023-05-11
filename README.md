@@ -37,6 +37,9 @@ You will need MySql Downloaded for this repo!
 
 ## Demo
 
+[Employee Tracker.webm](https://github.com/Christinaecb/Employee-Tracker/assets/119627874/a4ce0e41-7821-4c7a-8a89-5d432a7a42a7)
+
+
 https://drive.google.com/file/d/1OGJm1kA4MxTOlayJzPs89v-Ya_RfVOa-/view
 
 ## License
